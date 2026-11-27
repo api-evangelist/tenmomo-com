@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tenmomo operates a website that lists coupon codes that have been tested at checkout and returns 100% of its affiliate commission to shoppers as cashback. It aggregates real codes for a wide range of online stores across categories such as software, financial services, health, electronics, fashion, and travel, allowing consumers to apply verified discounts and receive cash rewards on their purchases.
+Tenmomo is a cashback and coupon aggregation platform that partners with online retailers to provide discount codes and cash-back offers at checkout. It curates a wide range of store categories, from software and financial services to health, beauty, and electronics, helping shoppers save money while earning cashback. Tenmomo operates as a consumer‑focused service, offering a searchable catalog of deals, a blog with shopping guides, and a loyalty program for repeat users.
 
-**Areas:** Coupon Codes · Cashback
+**Areas:** Cashback · Coupons · Shopping · Deals · E‑commerce
 
 ## Tenmomo on APIs.io
 
@@ -74,10 +74,10 @@ Everything profiled for Tenmomo is published on APIs.io rather than in this repo
 
 ### APIs (4)
 
-- [Tenmomo Activate API](https://apis.io/apis/tenmomo-com/tenmomo-com-activate-api/) — The Activate API from Tenmomo, for activate.
-- [Tenmomo Categories API](https://apis.io/apis/tenmomo-com/tenmomo-com-categories-api/) — The Categories API from Tenmomo, for categories.
-- [Tenmomo Deals API](https://apis.io/apis/tenmomo-com/tenmomo-com-deals-api/) — The Deals API from Tenmomo, for deals.
-- [Tenmomo Stores API](https://apis.io/apis/tenmomo-com/tenmomo-com-stores-api/) — The Stores API from Tenmomo, for stores.
+- [Tenmomo Activate API](https://apis.io/apis/tenmomo-com/tenmomo-com-activate-api/) — The Activate API from Tenmomo — 1 operation(s) for activate.
+- [Tenmomo Categories API](https://apis.io/apis/tenmomo-com/tenmomo-com-categories-api/) — The Categories API from Tenmomo — 2 operation(s) for categories.
+- [Tenmomo Deals API](https://apis.io/apis/tenmomo-com/tenmomo-com-deals-api/) — The Deals API from Tenmomo — 1 operation(s) for deals.
+- [Tenmomo Stores API](https://apis.io/apis/tenmomo-com/tenmomo-com-stores-api/) — The Stores API from Tenmomo — 2 operation(s) for stores.
 
 ### Published properties
 
@@ -130,18 +130,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 43.0** — developing · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 41.3** — developing · rubric 0.28.0 · scored 2026-11-27
 
 | Facet | Score |
 |---|---|
-| Discoverability | 64.3 |
-| Contract quality | 67.3 |
+| Discoverability | 66.1 |
+| Contract quality | 60.0 |
 | Contract governance | 79.1 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 20.7 |
 | Access clarity | 27.7 |
 
-**Agent readiness 30.5** — agent-ready
+**Agent readiness 31.2** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -167,9 +167,6 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | partial |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
 **Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
 
